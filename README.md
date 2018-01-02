@@ -61,7 +61,7 @@ Currently Imgur and S3 are the two upload locations supported, but, since upload
       config.droplerConfig = {
           backend: 'imgur',
           settings: {
-              clientId: 'YourImgurClientID'
+              clientId: 'Client-ID YourImgurClientID'
           }
       }
     });
